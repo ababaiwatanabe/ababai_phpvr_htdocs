@@ -1,0 +1,2 @@
+<footer></footer><!-- /footer -->
+<small class="copyright"> Copyright© 2018 <?php echo "$companyname"; ?>. All Rights Reserved. Created by Co., Ltd <a href="http://ababai.co.jp/" target="_blank">ABABAI</a>. </small>
