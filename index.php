@@ -2,7 +2,7 @@
 <html lang="ja">
 <?php include_once("include_parts/common.php"); ?>
 <?php $companyname = '会社名'; ?>
-<?php $titletext = '123タイトル'; ?>
+<?php $titletext = '123456タイトル'; ?>
 <?php $descriptiontext = 'ディスクリプション'; ?>
 <?php $keywordstext = 'キーワード'; ?>
 <?php $h1text = 'h1テキスト'; ?>
